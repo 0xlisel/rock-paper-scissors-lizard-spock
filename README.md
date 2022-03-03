@@ -1,4 +1,4 @@
-# Rock Paper Scissors Lizard Spock
+<h1 align='center'>Rock Paper Scissors Lizard Spock ✊✋✌️🤏🖖</h1>
 This is the infamous game brought to popularity with the TV show The Big Bang Theory.
 
 ### Note from the creator, Sam Kass:
